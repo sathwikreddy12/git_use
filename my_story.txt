@@ -1,3 +1,3 @@
 hey , i am sathwik reddy 
 i am trying to learn devops , in order to complete my textax , as i started to work as a devop at ADP during my internship
-
+i am trying to learn git and git hub , how to push and pull our work from git ti git hub 
